@@ -1,0 +1,7 @@
+samples
+.ipynb_checkpoints
+*.pkl
+*.zip
+*.pyc
+__pycache__
+
